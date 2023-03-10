@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/ReactJs_Feed)
-![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/ReactJs_Feed)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/ReactJs_Feed)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/ReactJs_Feed)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Ignite_Feed)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/Ignite_Feed)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/Ignite_Feed)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/Ignite_Feed)
 
 # Ignite Feed
 
