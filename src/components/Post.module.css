@@ -53,7 +53,7 @@
 }
   
 .authorInfo span {
-    isplay: block;
+  display: block;
   font-size: 0.875rem;
   color: var(--gray-400);
   line-height: 1.6;
@@ -88,7 +88,7 @@
   visibility: hidden;
   max-height: 0;
 }
-  /* focus-wihin: Caso dnetro de commentForm tenha algum textarea, input ou algum elemento com foco vai estilizar o elemento */
+  /* focus-wihin: Caso dentro de commentForm tenha algum textarea, input ou algum elemento com foco vai estilizar o elemento */
 .commentForm:focus-within footer {
   visibility: visible;
   max-height: none;

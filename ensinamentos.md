@@ -19,7 +19,7 @@ Aula 4 - Para iniciar o projeto iniciaremos um projeto com o Vite. Framework: Re
 
     npm create vite@latest
 
-Para instalar as depemdências do projeto com Vite
+Para instalar as dependências do projeto com Vite
 
     npm i
 
@@ -98,7 +98,7 @@ import igniteLogo from '../assets/ignitelogo.svg';
 
 Aula 11 Finalizando Sidebar - A biblioteca de imagens é a https://phosphoricons.com/
 
-    nom i phosphor-react
+    npm i phosphor-react
 
 ## Escrita de atributos HTML no React
 
